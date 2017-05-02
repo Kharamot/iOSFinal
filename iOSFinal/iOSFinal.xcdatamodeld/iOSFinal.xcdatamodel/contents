@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11759" systemVersion="16D32" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Question" representedClassName="Question" syncable="YES" codeGenerationType="class">
+        <attribute name="a1_answer" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="a2_answer" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="a3_answer" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="c_answer" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="file" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="is_voice" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="question" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Question" positionX="-63" positionY="-18" width="128" height="150"/>
+    </elements>
+</model>
